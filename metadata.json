@@ -1,0 +1,5 @@
+{
+  "name": "Smart Goals AI",
+  "description": "An intelligent goal-setting application using Gemini to transform vague ideas into SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals. Features distinct Admin and User portals.",
+  "requestFramePermissions": []
+}
